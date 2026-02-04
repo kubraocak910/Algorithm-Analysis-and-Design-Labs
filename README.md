@@ -27,4 +27,4 @@ Projeler, algoritmaların çalışma mantığını (Logic) ve zaman karmaşıkl�
 * **Derleyici:** GCC / Clang
 
 ---
-**Hatice Kübra Ocak ** Computer Engineering Student
+**Hatice Kübra Ocak** Computer Engineering Student
